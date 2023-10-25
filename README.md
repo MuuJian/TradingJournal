@@ -1,1 +1,1 @@
-# Trading-Journal-
+# TradingJournal
