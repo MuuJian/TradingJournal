@@ -49,6 +49,13 @@ choose pre outperformers
 好的币会做得更好（资金池越大，越集中）
 选择表现优异者
 
+If you’ve been following me for a while, you know my opinion about longing the laggard.
+Might be a short term play, but out performers stay outperforming.
+It's tempting to outsmart the market, derisking winners, adding to perceived laggards. More often than not, this ends up in regret.
+如果你已经关注我一段时间了，你就会知道我对落后者的看法。
+这可能是一种短期行为，但绩优股的表现会一直优于大盘。
+超越市场，减持赢家的股票，增持被认为落后的股票，这样做很有诱惑力。结果往往是后悔莫及。
+
 市场永远不会错
 不要把自己的想法强加在市场上
 宁可放弃高见，也要保住本金
