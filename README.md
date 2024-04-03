@@ -74,3 +74,4 @@ It's tempting to outsmart the market, derisking winners, adding to perceived lag
 
 1、在上升趋势中，如果价格已经穿越先前的高点但又没能持续上涨，随后又跌破先前高点，则趋势可能发生反转；
 2、在下降趋势中，如果价格已经穿越先前的地点但又没能持续下跌，随后又涨会先前低点，则趋势可能发生反转；
+
